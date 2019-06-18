@@ -1,0 +1,14 @@
+#CARLOS E. MORENO
+
+# Three Observable Trends based on the data:
+# In the data set, there are 576 unique players who made 780 purchases (of 183 different items),
+# which represent 1.35 purchases per customer. 84% of all players (484) are males, while only 14% (81) are female.
+
+# (1) On average, Females spend slightly higher per transaction vs. males ($3.2 for females, vs $3.0 for males).
+#     However, both Males and Females have similar number of transactions per player (1.35 for males vs. 1.39 for females).
+#     The player with the highest number of transaction (Lisosia93) has only 5 transactions. 
+# (2) [10-24] age group is the most important segment, including 238 players (44.79% of all players),
+#     which executed 365 transacions (46.8% of all transactions), representing $1,114 in revenue (46.8% of total revenue).
+#     This age group has the third highest price per transaction at $4.32.
+# (3) The most popular item is "Oathbreaker, Last Hope of the Breaking Storm" with 12 purchases, making it the number one 
+#     item in both counts (12) and in total revenue ($50.76).  The top ten items range between 8 and 12 transactions.
